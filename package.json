@@ -1,0 +1,20 @@
+{
+  "name": "find-a-vet",
+  "version": "1.0.0",
+  "description": "Find a vet based on Yelp ratings with scrutiny",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edmund Dong",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "jstat": "^1.9.6",
+    "yelp-fusion": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  }
+}
